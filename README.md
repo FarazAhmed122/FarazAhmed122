@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farazahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farazahmed" height="30" width="40" /></a>
-<a href="https://fb.com/farazahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farazahmed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faraz-ahmed-29126922a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farazahmed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/dexent.bacha.946954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farazahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/farazkhan.officiall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farazkhan.officiall" height="30" width="40" /></a>
 </p>
 
