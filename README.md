@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faraz Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend Web And Application developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazahmed122&label=Profile%20views&color=0e75b6&style=flat" alt="farazahmed122" /> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Web And Mobile Applications**
 
 - 🌱 I’m currently learning **Java Script ,React**
 
-- 👯 I’m looking to collaborate on **Internship**
+- 👯 I’m looking to collaborate on **Internship,**
 
-- 💬 Ask me about **Java Script, React**
+- 💬 Ask me about **Html,Css,bootstrap,javascript,**
 
 - 📫 How to reach me **Jan923451@gmail.com**
 
